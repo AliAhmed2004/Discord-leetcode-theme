@@ -1,0 +1,27 @@
+:root {
+  --accent-color: #20b2aa;
+  --accent-hover: #40e0d0;
+  --accent-rgb: 32, 178, 170;
+  --accent-text-color: #fff;
+
+  --chat-color: #f2f2f2;
+  --chat-box-color: #d9d9d9;
+  --sidebar-color: #fff;
+  --sidebar-panel: #e6e6e6;
+
+  --title-bar: #b0c4de;
+  --sticky-header: #87ceeb;
+  --sticky-header-border: #87cefa;
+
+  --bar-color: #87cefa;
+  --bar-border-color: #87ceeb;
+  --bar-size: 90px;
+
+  --popout-color: #87ceeb;
+  --popout-radius: 7px;
+  --popout-radius-small: 3px;
+
+  --input-color: #d9d9d9;
+  --input-text-color: #333;
+  --input-placeholder-color: #444;
+}
